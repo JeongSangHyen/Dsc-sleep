@@ -1,0 +1,16 @@
+추가 파일
+
+https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
+
+이동해서 다운
+
+라이브러리 설치
+
+1. pip install flask
+2. pip install opencv-python
+3. pip install dlib  -> 오류 시 visual studio -> cmake 설치
+4. pip install scipy
+5. pip install pyaudio
+6. pip install flask_cors
+
+스피커가 연결되있지 않으면 에러 발생. 
